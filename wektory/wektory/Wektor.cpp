@@ -101,7 +101,7 @@ double Wektor::dlugosc_wektora()
 	{
 		dlugosc += this->w[i] * this->w[i];
 	}
-	return dlugosc;
+	return sqrt(dlugosc);
 };
 
 double Wektor::dlugosc_wektora(Wektor & w1)
@@ -111,7 +111,7 @@ double Wektor::dlugosc_wektora(Wektor & w1)
 	{
 		dlugosc += w1.w[i] * w1.w[i];
 	}
-	return dlugosc;
+	return sqrt(dlugosc);
 };
 
 double Wektor::kat_pomiedzy_wektorami(Wektor & w1, Wektor & w2)

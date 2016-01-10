@@ -1,5 +1,4 @@
-﻿  wektory.cpp
-  Wektor.cpp
+﻿  Wektor.cpp
 c:\users\radek2\documents\visual studio 2015\projects\wektory\wektory\wektor.cpp(19): warning C4018: '<': signed/unsigned mismatch
 c:\users\radek2\documents\visual studio 2015\projects\wektory\wektory\wektor.cpp(39): warning C4018: '<': signed/unsigned mismatch
 c:\users\radek2\documents\visual studio 2015\projects\wektory\wektory\wektor.cpp(48): warning C4018: '<': signed/unsigned mismatch
@@ -9,5 +8,4 @@ c:\users\radek2\documents\visual studio 2015\projects\wektory\wektory\wektor.cpp
 c:\users\radek2\documents\visual studio 2015\projects\wektory\wektory\wektor.cpp(90): warning C4018: '<': signed/unsigned mismatch
 c:\users\radek2\documents\visual studio 2015\projects\wektory\wektory\wektor.cpp(100): warning C4018: '<': signed/unsigned mismatch
 c:\users\radek2\documents\visual studio 2015\projects\wektory\wektory\wektor.cpp(110): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
-  wektory.vcxproj -> C:\Users\Radek2\documents\visual studio 2015\Projects\wektory\Debug\wektory.exe
+  wektory.vcxproj -> C:\Users\Radek2\Documents\Visual Studio 2015\Projects\wektory\Debug\wektory.exe
